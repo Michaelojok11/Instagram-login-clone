@@ -2,6 +2,17 @@
     text-align: center;
 }
 
+.flex-container{
+    display: flex;
+}
+
+.flex-container div {
+    width: 33.3%;
+    
+}
+
 input {
     width: 100%;
+    margin-left: 15px;
+    margin-right: 15px;
 }
