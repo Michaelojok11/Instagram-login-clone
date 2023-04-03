@@ -5,13 +5,23 @@
 .flex-container{
     display: flex;
 }
+button {
+    width: 93%;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    height: 20px;
+    padding: 5px;
+    background-color: blue;
+    height: 30px;
+}
 
 .flex-container div {
     width: 33.3%;    
 }
 
 input {
-    width: 100%;
+    width: 90%;
     margin-left: 15px;
     margin-right: 15px;
     margin-top: 15px;
