@@ -12,7 +12,7 @@ button {
     margin-top: 15px;
     height: 20px;
     padding: 5px;
-    background-color: blue;
+    background-color: rgb(31, 31, 37);
     border-radius: 5px;
     height: 30px;
     color: white;
@@ -20,6 +20,9 @@ button {
 
 .flex-container div {
     width: 33.3%;    
+}
+.container {
+    border: 1px solid;
 }
 
 input {
