@@ -24,6 +24,13 @@ button {
 .container {
     border: 1px solid;
 }
+.container img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 45px;
+    margin-top: 10px;
+}
 
 input {
     width: 90%;
