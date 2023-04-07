@@ -22,7 +22,7 @@ button {
     width: 33.3%;    
 }
 .container {
-    border: 1px solid;
+    border: 0.03px solid grey;
 }
 .container img {
     margin-left: auto;
