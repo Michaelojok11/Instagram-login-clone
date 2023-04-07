@@ -12,7 +12,7 @@ button {
     margin-top: 15px;
     height: 20px;
     padding: 5px;
-    background-color: rgb(31, 31, 37);
+    background-color: rgb(71, 71, 224);
     border-radius: 5px;
     height: 30px;
     color: white;
@@ -30,6 +30,18 @@ button {
     display: block;
     height: 45px;
     margin-top: 10px;
+}
+
+.flex-options {
+    display: flex;
+}
+
+.flex-options div {
+    width: 33.3%;
+}
+
+.flex-container .flex-options div hr {
+    height: 2px;
 }
 
 input {
