@@ -21,10 +21,8 @@ button {
 .flex-container div {
     width: 33.3%;    
 }
-.container {
-    border: 0.03px solid grey;
-}
-.container img {
+
+.flex-container img {
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -32,18 +30,7 @@ button {
     margin-top: 10px;
 }
 
-.flex-options {
-    display: flex;
-}
-
-.container .flex-options div {
-    width: 33.3%;
-}
-
-.flex-options div hr {
-    height: 2px;
-}
-
+/* input */
 input {
     width: 90%;
     margin-left: 15px;
