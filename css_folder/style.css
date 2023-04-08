@@ -57,12 +57,10 @@ input[type=submit] {
     margin-top: 5px;
   }
 
-  .middle-container2 p {
-    text-align: center;
-    
-  }
-
-  span {
+  .middle-container2 .login p  {
+    text-align: center;  
+    font-size: 15px;  
     color: blue;
   }
-  
+
+ 
