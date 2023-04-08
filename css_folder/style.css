@@ -5,7 +5,7 @@
 .middle-container {
     display: flex;
 }
-.middle-container div {
+.middle-container2 {
     width: 33.3%;
 }
 
@@ -16,9 +16,12 @@
     margin-right: auto;
     margin-top: 10px;
 }
+.middle-container2, .middle-container1, .middle-container3 {
+    width: 33.3%;
+}
 
 /* input css */
-input, .btn {
+input {
   width: 100%;
   padding: 12px;
   border: none;
@@ -37,12 +40,19 @@ input:hover {
 
 /* style the submit button */
 input[type=submit] {
-    background-color: #04AA6D;
+    background-color: #047baa;
     color: white;
     cursor: pointer;
   }
   
   input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #559fbd;
+  }
+
+  .row {
+    display: flex;
+  }
+  .row div {
+    width: 33.3%;
   }
   
