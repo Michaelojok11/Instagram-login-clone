@@ -36,11 +36,11 @@ button {
     display: flex;
 }
 
-.flex-options div {
+.container .flex-options div {
     width: 33.3%;
 }
 
-.flex-container .flex-options div hr {
+.flex-options div hr {
     height: 2px;
 }
 
