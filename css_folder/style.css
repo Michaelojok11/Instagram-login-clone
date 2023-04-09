@@ -90,3 +90,10 @@ input[type=submit] {
     padding: 5px;
     margin: 5px;
  }
+ .get-the-app img {
+    width: 100%;
+    height: 50px;
+ }
+ .login h4 img {
+  padding-top: -20px;
+ }
