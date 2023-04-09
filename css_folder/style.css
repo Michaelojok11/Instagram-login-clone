@@ -82,3 +82,11 @@ input[type=submit] {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;    
  }
+ .get-the-app {
+    display: flex;
+ }
+ .get-the-app div {
+    width: 50%;
+    padding: 5px;
+    margin: 5px;
+ }
