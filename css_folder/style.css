@@ -57,12 +57,11 @@ input[type=submit] {
     margin-top: 5px;
   }
 
-  .middle-container2 .login h4  {
-    text-align: center;  
-    font-size: 18px;  
-    color: rgb(10, 10, 184);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+  .login {
+    display: flex;
   }
+
+
 
   .login p {
     text-align: center;
@@ -70,6 +69,8 @@ input[type=submit] {
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
+
+  
  .sign-up {
     text-align: center;
  }
@@ -96,4 +97,12 @@ input[type=submit] {
  }
  .login h4 img {
   padding-top: -20px;
+ }
+
+ .f-password p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+
  }
