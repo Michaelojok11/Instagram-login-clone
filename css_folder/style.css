@@ -70,4 +70,10 @@ input[type=submit] {
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
- 
+ .sign-up {
+    text-align: center;
+ }
+ .sign-up p {
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
